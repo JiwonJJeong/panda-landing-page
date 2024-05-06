@@ -24,9 +24,27 @@ flex-basis: 50px;
 background-color:#1F2937;
 }
 
+/* stylizing section one */
+/* stylizing section one header*/
+.header{
+    display: flex;
+    margin: 10px 150px;
+    justify-content: space-between;
+}
+
 .header-logo{
     font-size: 24px;
     color: #F9FAF8;
+    min-width: 150px;
+    font-weight: bold;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    font-size: 18px;
+    color:#E5E7EB;
 }
 
 ul {
