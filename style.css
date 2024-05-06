@@ -57,3 +57,10 @@ a{
     text-decoration: none;
     color: inherit;
 }
+
+/* stylizing section one content*/
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
