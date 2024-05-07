@@ -179,7 +179,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: #F9FAF8;
 }
 
 .four .footer {
@@ -190,17 +190,21 @@ body {
 .four .card{
     background-color: #3882f6;
     padding: 50px 100px;
+    border-radius: 8px;
 }
 
 .four .words{
     display:flex;
-    gap: 50px;
+    align-items: center;
+    gap: 70px;
 }
 
 .four .footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #F9FAF8;
+    font-size: 12px;
 }
 
 .four .info.header{
@@ -213,4 +217,14 @@ body {
     font-size:15px;
     font-weight: normal;
     margin: 0;
+}
+
+.four button{
+    background-color: #3882f6;
+    color:#F9FAF8;
+    border-color: #F9FAF8;
+    padding: 4px 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+    font-size: 16px;
 }
