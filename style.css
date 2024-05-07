@@ -28,20 +28,20 @@ background-color:#1F2937;
 
 /* stylizing section one */
 /* stylizing section one header*/
-.header{
+.one .header{
     display: flex;
     margin: 10px 150px;
     justify-content: space-between;
 }
 
-.header-logo{
+.one .header-logo{
     font-size: 24px;
     color: #F9FAF8;
     min-width: 150px;
     font-weight: bold;
 }
 
-.links{
+.one .links{
     display: flex;
     align-items: center;
     gap: 13px;
@@ -49,19 +49,19 @@ background-color:#1F2937;
     color:#E5E7EB;
 }
 
-ul {
+.one ul {
     list-style-type: none;
     padding:0;
     margin:0;
 }
 
-a{
+.one a{
     text-decoration: none;
     color: inherit;
 }
 
 /* stylizing section one content*/
-.content{
+.one .content{
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -70,32 +70,32 @@ a{
     min-width: 384px;
 }
 
-.text{
+.one .text{
     flex: 0 1 500px;
     max-height: 270px;
     min-width: 271px;
 }
 
-.text-header{
+.one .text-header{
     margin:0;
     font-weight:bolder;
     font-size: 48px;
     color: #F9FAF8;
 }
 
-.bear-info{
+.one .bear-info{
     font-size: 18px;
     color: #E5E7EB;
     margin: 6px 0;
 }
 
-.image{
+.one .image{
     width: 300px;
     height: auto;
     flex: 0;
 }
 
-.content .sign-up-button{
+.one .content .sign-up-button{
     background-color: #3882f6;
     color: #E5E7EB;
     padding: 4px 15px;
@@ -103,3 +103,5 @@ a{
     border-radius: 5px;
     margin: 10px 0;
 }
+
+/*section two!*/
