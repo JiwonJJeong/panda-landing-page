@@ -7,11 +7,11 @@ body{
     font-family: "Tahoma", sans-serif;
 }
 
-.one {
+.section.one {
     background-color: #1F2937;
 }
 
-.three {
+.section.three {
     background-color: #E5E7EB;
 }
 
@@ -105,3 +105,14 @@ background-color:#1F2937;
 }
 
 /*section two!*/
+.two .image-content{
+    display:flex;
+}
+
+.two img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius:20px;
+    border: 3px solid #3882f6;
+}
