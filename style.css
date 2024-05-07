@@ -176,9 +176,16 @@ body {
 
 .four .content{
     flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .four .footer {
     flex: 0 0 50px;
     background-color: #1F2937;
+}
+
+.four .card{
+    background-color: #3882f6;
 }
