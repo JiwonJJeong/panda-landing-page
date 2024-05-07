@@ -189,3 +189,15 @@ body {
 .four .card{
     background-color: #3882f6;
 }
+
+.four .words{
+    display:flex;
+    margin: 20px 100px;
+    gap: 20px;
+}
+
+.four .footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
