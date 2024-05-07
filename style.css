@@ -21,10 +21,7 @@ body {
     min-width: 700px;
 }
 
-.section.five {
-    flex-basis: 50px;
-    background-color: #1F2937;
-}
+
 
 /* stylizing section one */
 /* stylizing section one header*/
@@ -169,4 +166,19 @@ body {
     font-weight: lighter;
     color: #1F2937;
     margin:0;
+}
+
+/* section 4*/
+.section.four{
+    display:flex;
+    flex-direction:column;
+}
+
+.four .content{
+    flex-grow: 1;
+}
+
+.four .footer {
+    flex: 0 0 50px;
+    background-color: #1F2937;
 }
