@@ -16,8 +16,8 @@ body{
 }
 
 .section{
-    flex-basis: 400px;
-    max-height: 406px;
+    flex: 0 0 400px;
+    max-height: 400px;
     min-width: 700px;
 }
 
@@ -105,8 +105,18 @@ background-color:#1F2937;
 }
 
 /*section two!*/
+.two .text-header{
+    margin: 20px auto;
+}
+
 .two .image-content{
     display:flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.two .image{
+    flex: 0 0 150px;
 }
 
 .two img{
