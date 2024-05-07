@@ -61,6 +61,21 @@ a{
 /* stylizing section one content*/
 .content{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-start;
+    margin: 70px 150px;
+    gap: 20px;
+}
+
+.text{
+    flex: 0 0 300px;
+}
+
+.text-header{
+    margin:0;
+}
+
+.image{
+    width: 300px;
+    height: auto;
 }

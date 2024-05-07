@@ -8,3 +8,6 @@ Skills practiced:
 - Write basic HTML elements, including images and font attribute changes.
 - Organize HTML elements using CSS flexbox and box model.
 - Use nested flexboxes to create a multi-sectioned page.
+
+
+Panda photo by Kirandeep Singh Walia: https://www.pexels.com/photo/eating-panda-bear-14925845/
