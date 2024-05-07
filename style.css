@@ -64,18 +64,37 @@ a{
     justify-content: center;
     align-items: flex-start;
     margin: 70px 150px;
-    gap: 20px;
+    gap: 100px;
 }
 
 .text{
-    flex: 0 0 300px;
+    flex: 0 1 500px;
 }
 
 .text-header{
     margin:0;
+    font-weight:bolder;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.bear-info{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 6px 0;
 }
 
 .image{
     width: 300px;
     height: auto;
+    flex: 0;
+}
+
+.content .sign-up-button{
+    background-color: #3882f6;
+    color: #E5E7EB;
+    padding: 4px 15px;
+    border-style: none;
+    border-radius: 5px;
+    margin: 10px 0;
 }
