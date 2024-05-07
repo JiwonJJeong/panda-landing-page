@@ -16,9 +16,9 @@ body{
 }
 
 .section{
-    flex: none;
     flex-basis: 400px;
     max-height: 406px;
+    min-width: 700px;
 }
 
 .section.five {
