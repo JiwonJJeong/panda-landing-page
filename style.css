@@ -109,6 +109,10 @@ background-color:#1F2937;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 30px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
 }
 
 .two .image-content{
@@ -119,6 +123,9 @@ background-color:#1F2937;
 
 .two .image{
     flex: 0 0 150px;
+    color: #1F2937;
+    font-size:16px;
+    text-align:center;
 }
 
 .two img{
