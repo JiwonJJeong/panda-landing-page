@@ -106,7 +106,9 @@ background-color:#1F2937;
 
 /*section two!*/
 .two .text-header{
-    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .two .image-content{
