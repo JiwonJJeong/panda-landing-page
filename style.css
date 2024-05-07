@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     justify-content: stretch;
     margin: 0;
+    align-items: stretch;
     font-family: "Tahoma", sans-serif;
 }
 
@@ -17,6 +18,7 @@ body{
 .section{
     flex: none;
     flex-basis: 400px;
+    max-height: 406px;
 }
 
 .section.five {
@@ -65,10 +67,13 @@ a{
     align-items: flex-start;
     margin: 70px 150px;
     gap: 100px;
+    min-width: 384px;
 }
 
 .text{
     flex: 0 1 500px;
+    max-height: 270px;
+    min-width: 271px;
 }
 
 .text-header{
