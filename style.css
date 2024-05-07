@@ -47,7 +47,7 @@ body {
 .one .links {
     display: flex;
     align-items: center;
-    gap: 13px;
+    gap: 18px;
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -102,10 +102,11 @@ body {
 .one .content .sign-up-button {
     background-color: #3882f6;
     color: #E5E7EB;
-    padding: 4px 15px;
+    padding: 5px 15px;
     border-style: none;
     border-radius: 5px;
-    margin: 10px 0;
+    margin: 8px 0;
+    font-size: 13px;
 }
 
 /*section two!*/
