@@ -1,16 +1,14 @@
 # panda-landing-page
-My own HTML landing page made from scratch to mimic layout of The Odin Project: Foundations: Landing Page.
+My own HTML landing page made from scratch to mimic layout of The Odin Project: Foundations: Landing Page. Aimed to practice Flexbox and basic CSS.
 
-Skills practiced:
-- Use git and command line to create, manage, and navigate files.
-- Write helpful commits and commit frequently.
-- Use GitHub to publically share my work.
-- Write basic HTML elements, including images and font attribute changes.
-- Organize HTML elements using CSS flexbox and box model.
-- Use nested flexboxes to create a multi-sectioned page.
-- Practice niche CSS properties like border-radius for a polished look.
+[Try it here!](https://jiwonjjeong.github.io/panda-landing-page/)
 
+## Achieved Learning Goals
+- **CSS foundations**: Styled page from scratch with basic CSS to mimic demo landing page.
+- **CSS Flexbox**: Used Flexbox on nested elements and the box-model to layout HTML elements.
+- **Researching new CSS properties**: Studied border-radius documentation for polished look.
 
+## Attributions
 Panda photo by Kirandeep Singh Walia: https://www.pexels.com/photo/eating-panda-bear-14925845/
 
 Bamboo photo by Toni Cuenca: https://www.pexels.com/photo/bamboo-stick-lot-in-gray-galvanized-buckets-405034/
